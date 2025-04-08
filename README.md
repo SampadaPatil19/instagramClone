@@ -25,6 +25,8 @@ A full-featured Instagram Clone built with **ReactJS**, **JavaScript**, **Redux*
 
 ## 📁 Folder Structure
 
+instagramClone/ │ ├── public/ ├── src/ │ ├── components/ │ ├── redux/ │ ├── firebase.js │ ├── App.js │ └── index.js ├── .gitignore ├── package.json └── README.md
+
 ---
 
 ## 🔌 Firebase Setup
