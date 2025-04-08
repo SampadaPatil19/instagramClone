@@ -1,0 +1,43 @@
+.authentication{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 0px 50px 0px 50px;
+    padding: 10px 200px;
+}
+.authentication_left{
+    flex: 0.5;
+    text-align: center;
+}
+.authentication_right{
+    flex: 0.5;
+}
+.authentication_left img{
+    width: 400px;
+    margin-top: 45px;
+    border-radius: 10px;
+    border: 1px solid #00FFFF;
+}
+.auhtentication_more{
+    border: 3px solid #00FFFF;
+    padding: 20px;
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.auhtentication_more span{
+    font-size: 18px;
+    font-weight: 500px;
+}
+.auhtentication_more span button{
+    background: 0;
+    border: 0;
+    color: #00FFFF;
+    font-weight: bold;
+}
+.auhtentication_more span button:hover{
+    cursor:pointer;
+    transform: scale(0.8);
+}
