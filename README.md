@@ -44,4 +44,20 @@ const firebaseConfig = {
   messagingSenderId: "YOUR_SENDER_ID",
   appId: "YOUR_APP_ID"
 };
+```
 
+---
+
+git clone https://github.com/SampadaPatil19/instagramClone.git
+
+```
+cd instagramClone
+npm install
+npm start
+```
+
+🤝 Contributions
+Pull requests are welcome! For major changes, please open an issue first.
+
+🙋‍♀️ Author
+Sampada Patil
